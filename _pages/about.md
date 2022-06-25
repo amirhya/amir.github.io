@@ -1,4 +1,3 @@
-Amir Hossein Yazdani Abyaneh
 ---
 permalink: /
 title: "Welcome to my academic ocean!"
@@ -8,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 Biography
 =========
