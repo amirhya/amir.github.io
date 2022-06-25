@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: February 2020
 venue: 'Transactions on Emerging Telecommunications Technologies'
 paperurl: 'https://arxiv.org/pdf/1812.04715.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Yazdani Abyaneh, Amirhossein, Vahid Pourahmadi, and Ali Hosein Gharari Foumani. "CSI‐based authentication: Extracting stable features using deep neural networks." Transactions on Emerging Telecommunications Technologies 31.2 (2020): e3795.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
