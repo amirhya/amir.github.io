@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 Biography
 =========
 Hi, everyone! I am Amir,  Ph.D. student in the Department of Electrical and Computer Engineering, University of Arizona. \
