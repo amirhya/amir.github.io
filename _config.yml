@@ -85,10 +85,10 @@ author:
   bio              : "Graduate Student at University of Arizona"
   location         : "Palo Alto, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=9nUEOOEAAAAJ&hl=en"
+  email            : "mailto:yazdani.ahya@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Amir-Hossein-Yazdani-Abyaneh"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/amirhya"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yazdani-abyaneh/"
+  orcid            : "https://orcid.org/0000-0002-7634-8498"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
