@@ -17,3 +17,5 @@ In this work we evaluate our localization/authentication perrformance via real w
 [Download paper](https://amirhya.github.io/amir.github.io//publications/wiseml22.pdf)
 
 [Link to conference draft](https://dl.acm.org/doi/abs/10.1145/3522783.3529524)
+
+[Link to presentation video](https://youtu.be/D_QUV2MzzaQ?t=15829)
