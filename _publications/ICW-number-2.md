@@ -8,7 +8,7 @@ date: November 2019
 venue: 'IEEE DySPAN 2019, Newark, NJ, USA'
 paperurl: 'ICW.pdf'
 
-#citation: 'Yazdani Abyaneh, Amirhossein, Vahid Pourahmadi, and Ali Hosein Gharari Foumani. "CSI‐based authentication: Extracting stable features using deep neural networks." Transactions on Emerging Telecommunications Technologies 31.2 (2020): e3795.'
+#citation: 'A. H. Y. Abyaneh, M. Hirzallah and M. Krunz, "Intelligent-CW: AI-based Framework for Controlling Contention Window in WLANs," 2019 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN), 2019, pp. 1-10, doi: 10.1109/DySPAN.2019.8935851.'
 ---
 This paper is about physical layer authentication using UL estimated CSI. A double-branch CNN architecture is designed topredict whether its two CSI inputs are from the sasme location or not. Devices are authenticated if their received CSI matches a set of already authenticated locations. In a sense, the authentication system localizes devices based on their estimated CSI and then uses localization information for lozalization.
 In this work we evaluate our localization/authentication perrformance via real world data using comodity Intel 5300i NICs.
