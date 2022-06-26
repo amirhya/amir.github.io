@@ -14,3 +14,4 @@ In this work we evaluate our localization/authentication perrformance via real w
 
 
 
+[Download paper here](https://arxiv.org/pdf/1812.04715.pdf)
