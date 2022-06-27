@@ -34,6 +34,31 @@ Research Experience
 * I am currently working at NTT Docomo Innovations Inc as a Research Engineer Intern working on joint communication and sensing.
   * dd
 
+* Graduate Research Assistant (Januanry 2019 - May 2022): University of Arizona
+  * Cross-Technology Coexistence in Unlicensed Bands Jan. 2019 – May 2022 
+    * Wireless communication systems and protocols: OFDMA, TX/RX radio chain, 802.11 systems, LTE-LAA, 5G NR-U, successive interference cancellation, carrier frequency offset fingerprinting 
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+• Wireless communication systems and protocols: OFDMA, TX/RX radio chain, 802.11 systems, LTE-LAA,
+5G NR-U, successive interference cancellation, carrier frequency offset fingerprinting
+• Machine learning algorithms: Conventional ML, CNN, RNN, and deep-QNN design (Python: sklearn, PyTorch
+TensorFlow, Keras).
+• Radio hardware: NI/Ettus USRP, USRP RIO, USRP Flex RIOs configuration and setup, beginner LabVIEW
+FPGA programming, LabVIEW 802.11 application framework, LabVIEW communication design suite, Field-Fox
+Network and microwave analyzers, and Keysight MXA signal analyzer
+• Mathematics: Markov chain analysis, statistical inference, optimization, reinforcement learning theory,
+information theory
+• Signal processing: Cross-correlation-based identification algorithm design, digital filter design (Python and
+MATLAB)
+• Discrete-event simulators: 802.11 ac simulator design (C/C++ and ns-3)
+
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
