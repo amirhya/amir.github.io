@@ -15,7 +15,7 @@ I have been a graduate student at University of Arizona's ECE departement since 
 
 My reserach interests are machine learning algorithms and protocols for spectrum sharing and homogeneious coexistence of heterogeneous technologies. I present a summary of my works in [Publications](https://amirhya.github.io/amir.github.io//publications/) and Industry work. However, since 2016, I have been self studying and trying to keep up with the emerging branches of deep learning specifically Convolutional Neural Networks (CNNs). 
 
-My viision for a wireless connectivity is through the pure adaptability of RF interface. To be able to cope with the dynamics withing the wireless realm, be it from high channel variations due to mobility or the vast majority of emerging applications that require new technology designs and solutions. For that matter my purpose and goal is to study the effectiveneess of RL algorithms on such wirelss problems.
+My current vision for  wireless connectivity is through  adaptability of PHY and MAC layers. To be able to cope with the dynamics withing the wireless realm, be it from high channel variations due to mobility or the vast majority of emerging applications that require new technology designs and solutions. For that matter my purpose and goal is to study the effectiveneess of RL algorithms on such wirelss problems.
 
 
 <!--
