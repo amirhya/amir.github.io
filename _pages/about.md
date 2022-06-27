@@ -16,11 +16,12 @@ I have been a graduate student at University of Arizona's ECE departement since 
 My reserach interests are machine learning algorithms and protocols for spectrum sharing and homogeneious coexistence of heterogeneous technologies. I present a summary of my works in [Publications](https://amirhya.github.io/amir.github.io//publications/) and Industry work.
 
 
-
-#<div align="center">
-#<img src="https://amirhya.github.io/amir.github.io//images/profile.jpg">
-#</div>
-#<br/>
+<!--
+<div align="center">
+<img src="https://amirhya.github.io/amir.github.io//images/profile.jpg">
+</div>
+<br/>
+ -->
 
 
 
