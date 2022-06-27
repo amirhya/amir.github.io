@@ -37,21 +37,25 @@ Research Experience
 * Graduate Research Assistant (Januanry 2019 - May 2022): University of Arizona
   * Cross-Technology Coexistence in Unlicensed Bands Jan. 2019 – May 2022 
     * Wireless communication systems and protocols: OFDMA, TX/RX radio chain, 802.11 systems, LTE-LAA, 5G NR-U, successive interference cancellation, carrier frequency offset fingerprinting 
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-• Wireless communication systems and protocols: OFDMA, TX/RX radio chain, 802.11 systems, LTE-LAA,
-5G NR-U, successive interference cancellation, carrier frequency offset fingerprinting
-• Machine learning algorithms: Conventional ML, CNN, RNN, and deep-QNN design (Python: sklearn, PyTorch
-TensorFlow, Keras).
-• Radio hardware: NI/Ettus USRP, USRP RIO, USRP Flex RIOs configuration and setup, beginner LabVIEW
-FPGA programming, LabVIEW 802.11 application framework, LabVIEW communication design suite, Field-Fox
-Network and microwave analyzers, and Keysight MXA signal analyzer
-• Mathematics: Markov chain analysis, statistical inference, optimization, reinforcement learning theory,
-information theory
-• Signal processing: Cross-correlation-based identification algorithm design, digital filter design (Python and
-MATLAB)
-• Discrete-event simulators: 802.11 ac simulator design (C/C++ and ns-3)
+    * Machine learning algorithms: Conventional ML, CNN, RNN, and deep-QNN design (Python: sklearn, PyTorch, TensorFlow, Keras).
+    * Radio hardware: NI/Ettus USRP, USRP RIO, USRP Flex RIOs configuration and setup, beginner LabVIEW FPGA programming, LabVIEW 802.11 application framework, LabVIEW communication design suite, Field-Fox Network and microwave analyzers, and Keysight MXA signal analyzer
+    * Mathematics: Markov chain analysis, statistical inference, optimization, reinforcement learning theory, information theory
+    * Signal processing: Cross-correlation-based identification algorithm design, digital filter design (Python and MATLAB)
+    * Discrete-event simulators: 802.11 ac simulator design (C/C++ and ns-3)
+  * Machine Learning Based Sensing in Unlicensed bands July 2022 - May 2022
+    * Wireless communication systems and protocols: OFDM, MIMO communication and channel characterization, LTE and 5G frame construction and settings
+    * Machine learning algorithms: Neural architecture search and hyper parameter optimization algorithms (Python: Keras and KerasTuner)
+    * Radio hardware: Multiple transmitter/receiver synchronization, MATLAB SDR toolbox
+    * Signal processing: FFT, STFT, moving average/max
+    * HPC: Remote learning-job submission and automatic job creation (VSCode, Linux) on Google colab and UofA computing servers
+  * RFI Mitigation of Terrestrial Transmitters with Radio Astronomy Telescopes Sep. 2020 - May 2022
+    * Interference mitigation: Telescope radiation pattern modeling, link budget analysis based on ITU-R RA recommendations, beam-forming, interference learning with distributed-sensor networks
+    * Experimentation: Over the air transmissions of Wi-Fi waveforms with USRPs (using LabVIEW ) at the SMT telescope (in Mt. Grahm, Tucson, AZ), telescope observational methods, telescope receiver characteristics
+* Undergraduate Research Assistant (September 2017 - September 2018): Amirkabir University of Technology (tehran Polytechnique)
+  * Wi-Fi Indoor Localization Using CSI:
+    * CNN Learning Algorithm and Architectural Design: Double-input classification algorithm to train CNN for feature extraction and localization authentication (Tensorflow and Keras)
+    * Statistical Learning: PCA and SPCA analysis (Python and MATLAB)
+    * Experimentation: Gathering CSI from 5300i NIC’s with a modified firmware (Linux)
 
 
 * Fall 2015: Research Assistant
