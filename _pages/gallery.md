@@ -11,9 +11,9 @@ redirect_from:
 Arizona
 ======
 <div align="center">
-<img src="/images/az1.jpg">
-<img src="/images/az2.jpg">
-<img src="/images/az3.jpg">
+<img src="https://amirhya.github.io/amir.github.io//images/az1.jpg">
+<img src="https://amirhya.github.io/amir.github.io//images/az2.jpg">
+<img src="https://amirhya.github.io/amir.github.io//images/az3.jpg">
 </div>
 <br/>
 
@@ -21,6 +21,6 @@ Arizona
 California
 ======
 <div align="center">
-<img src="/images/cali1.jpg">
+<img src="https://amirhya.github.io/amir.github.io//images/cali1.jpg">
 </div>
 <br/>
