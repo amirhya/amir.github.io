@@ -54,15 +54,30 @@ Research Experience
   * RFI Mitigation of Terrestrial Transmitters with Radio Astronomy Telescopes Sep. 2020 - May 2022
     * Interference mitigation: Telescope radiation pattern modeling, link budget analysis based on ITU-R RA recommendations, beam-forming, interference learning with distributed-sensor networks
     * Experimentation: Over the air transmissions of Wi-Fi waveforms with USRPs (using LabVIEW ) at the SMT telescope (in Mt. Grahm, Tucson, AZ), telescope observational methods, telescope receiver characteristics
-* Undergraduate Research Assistant (September 2017 - September 2018): Amirkabir University of Technology (tehran Polytechnique)
+* Undergraduate Research Assistant (December 2016 - September 2018): Amirkabir University of Technology (Tehran Polytechnique)
   * Wi-Fi Indoor Localization Using CSI:
     * CNN Learning Algorithm and Architectural Design: Double-input classification algorithm to train CNN for feature extraction and localization authentication (Tensorflow and Keras)
     * Statistical Learning: PCA and SPCA analysis (Python and MATLAB)
     * Experimentation: Gathering CSI from 5300i NIC’s with a modified firmware (Linux)
+  * Quantum Key Distribution:
+    * Background studies: Quantum cryptogrophy, linear algebra, and Quantum Physics I
+
   
 
 Notable Course Projects
 ======
+* Music Matcher Mobile Software Design and Development – Course: Software Engineering Spring 2022
+  *Java, Flutter, and Firebase
+* Transport/Network Layer Discrete-Event Simulator Design – Course: Adv. Computer Networks Spring 2021
+  *Simulator design for TCP and GCRA (C++: CSIM)
+* Viterbi Detector – Course: Digital Communications Spring 2021
+  * Simulation of Viterbi decoder (Python)
+* Word Tokenization and Classification (NLP) – Course: Neural Networks Fall 2020
+  *Text tokenization and embedding utilization (Python: spaCy and re), Bidirectional GRU/LSTM design, weighted-categorical-cross-entropy loss design (Python: Tensorflow and Keras)
+* Collision Classification from I/Q Samples – Course: Engineering Applications of ML Spring 2020
+  *CNN design and problem formulation for detecting stations involved in a Wi-Fi collision from raw I/Q samples
+(Python: Keras)
+
 
 
 Site-wide configuration
