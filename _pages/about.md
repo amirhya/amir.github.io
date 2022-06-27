@@ -19,7 +19,7 @@ My reserach interests are machine learning algorithms and protocols for spectrum
 * Volunteer to teach children
 
 <div align="center">
-<img src="/images/profile.jpg">
+<img src="https://amirhya.github.io/amir.github.io//images/profile.jpg">
 </div>
 <br/>
 
