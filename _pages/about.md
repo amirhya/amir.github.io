@@ -24,11 +24,6 @@ My reserach interests are machine learning algorithms and protocols for spectrum
  -->
 
 
-
-Current Occupation
-======
-* I am currently working at NTT Docomo Innovations Inc as a Research Engineer Intern working on joint communication and sensing.
-
 Research Experience
 ======
 * Research Engineer Intern (May 2022 present): NTT Docomo Innovations Inc, Palo Alto, CA
