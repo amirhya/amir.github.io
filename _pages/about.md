@@ -13,7 +13,7 @@ Biography
 Hi, everyone, I am Amir-Hossein Yazdani-Abyaneh!
 I have been a graduate student at University of Arizona's ECE departement since January 2019. Before that I graduated from Amirkabir University of Technology (Tehran Polytechnique) in 2018 with a BSc in Electrical and Electronics Engineering with a concentration on telecommunicaitons.
 
-My reserach interests are machine learning algorithms and protocols for spectrum sharing and homogeneious coexistence of heterogeneous technologies. I present a summary of my works in [Publications](https://amirhya.github.io/amir.github.io//publications/) and Industry work. However, since 2016, I have been self studying and trying to keep up with the emerging branches of deep learning specifically Convolutional Neural Networks (CNNs). 
+My reserach interests are machine learning algorithms and protocols for spectrum sharing and homogeneious coexistence of heterogeneous technologies. I present a summary of my works in [Publications](https://amirhya.github.io/amir.github.io//publications/) and Industry work. However, since 2016, I have been self studying and trying to keep up with the emerging branches of deep learning specifically CNNs and DRL. 
 
 My current vision for  wireless connectivity is through  adaptability of PHY and MAC layers. To be able to cope with the dynamics withing the wireless realm, be it from high channel variations due to mobility or the vast majority of emerging applications that require new technology designs and solutions. For that matter my purpose and goal is to study the effectiveneess of RL algorithms on such wirelss problems.
 
