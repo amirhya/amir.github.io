@@ -67,15 +67,15 @@ Research Experience
 Notable Course Projects
 ======
 * Music Matcher Mobile Software Design and Development – Course: Software Engineering Spring 2022
-  *Java, Flutter, and Firebase
+  * Java, Flutter, and Firebase
 * Transport/Network Layer Discrete-Event Simulator Design – Course: Adv. Computer Networks Spring 2021
-  *Simulator design for TCP and GCRA (C++: CSIM)
+  * Simulator design for TCP and GCRA (C++: CSIM)
 * Viterbi Detector – Course: Digital Communications Spring 2021
   * Simulation of Viterbi decoder (Python)
 * Word Tokenization and Classification (NLP) – Course: Neural Networks Fall 2020
-  *Text tokenization and embedding utilization (Python: spaCy and re), Bidirectional GRU/LSTM design, weighted-categorical-cross-entropy loss design (Python: Tensorflow and Keras)
+  * Text tokenization and embedding utilization (Python: spaCy and re), Bidirectional GRU/LSTM design, weighted-categorical-cross-entropy loss design (Python: Tensorflow and Keras)
 * Collision Classification from I/Q Samples – Course: Engineering Applications of ML Spring 2020
-  *CNN design and problem formulation for detecting stations involved in a Wi-Fi collision from raw I/Q samples
+  * CNN design and problem formulation for detecting stations involved in a Wi-Fi collision from raw I/Q samples
 (Python: Keras)
 
 
