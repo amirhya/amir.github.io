@@ -33,7 +33,7 @@ Research Experience
 * Research Engineer Intern (January 2022 - May 2022): ED2 Corporation, Tucson, AZ
   * mmWave 5G Demo:
     * Software: [Eurocom's Open Air Interface (OAI) 5G](https://gitlab.eurecom.fr/oai/openairinterface5g), bash scripts, and c programming
-    * Hardware: mmWave antennas, mmWave reapeaters, and USRP B210s  
+    * Hardware: mmWave antennas, mmWave repeaters, and USRP B210s  
 * Graduate Research Assistant (Januanry 2019 - May 2022): University of Arizona
   * Cross-Technology Coexistence in Unlicensed Bands Jan. 2019 – May 2022 
     * Wireless communication systems and protocols: OFDMA, TX/RX radio chain, 802.11 systems, LTE-LAA, 5G NR-U, successive interference cancellation, carrier frequency offset fingerprinting 
