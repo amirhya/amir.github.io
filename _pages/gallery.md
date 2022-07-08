@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-I try to capture some of the sights that bring light a feeling in me with a camera :)
+I take photos on my phone :)
 
 Arizona
 ======
