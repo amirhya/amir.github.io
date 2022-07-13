@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Biography
+About me
 =========
 This is Amir-Hossein Yazdani-Abyaneh, a graduate ECE student at [the University of Arizona] (https://www.arizona.edu/), Tucson, AZ. I received my BSc in EE at Amirkabir University of Technology (Tehran Polytechic) at June 2018.
 
@@ -17,8 +17,6 @@ My research interests are wireless communication systems/protocols, signal proce
 #My current vision for  wireless connectivity is through  adaptability of PHY and MAC layers. To be able to cope with the dynamics within the wireless realm, be it from high channel variations due to mobility or the various new applications that require new technological designs and solutions. For that matter my purpose and goal is to study the effectiveneess of RL algorithms on such wirelss problems.
 
 
-
-  (see pictures of Abyaneh Village, Iran at the Gallery section)!
 
 <!--
 <div align="center">
