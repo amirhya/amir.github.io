@@ -14,7 +14,7 @@ This is Amir-Hossein Yazdani-Abyaneh, a graduate ECE student at [the University 
 
 My research interests are wireless communication systems/protocols, signal processing, and machine learning. You can download and view my published works in [Publications](https://amirhya.github.io/amir.github.io//publications/) tab.
 
-< ! My current vision for  wireless connectivity is through  adaptability of PHY and MAC layers. To be able to cope with the dynamics within the wireless realm, be it from high channel variations due to mobility or the various new applications that require new technological designs and solutions. For that matter my purpose and goal is to study the effectiveneess of RL algorithms on such wirelss problems. >
+<!My current vision for  wireless connectivity is through  adaptability of PHY and MAC layers. To be able to cope with the dynamics within the wireless realm, be it from high channel variations due to mobility or the various new applications that require new technological designs and solutions. For that matter my purpose and goal is to study the effectiveneess of RL algorithms on such wirelss problems.>
 
 
 
