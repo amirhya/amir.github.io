@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 =========
-This is Amir-Hossein Yazdani-Abyaneh, a graduate ECE student at [the University of Arizona] (https://www.arizona.edu/), Tucson, AZ. I received my BSc in EE at Amirkabir University of Technology (Tehran Polytechic) at June 2018. I am curently interning with [DOCOMO Innovation Inc](https://www.docomoinnovations.com/), Palo Alto, CA.
+This is Amir-Hossein Yazdani-Abyaneh, a graduate ECE student at [the University of Arizona](https://www.arizona.edu/), Tucson, AZ. I received my BSc in EE at Amirkabir University of Technology (Tehran Polytechic) at June 2018. I am curently interning with [DOCOMO Innovation Inc](https://www.docomoinnovations.com/), Palo Alto, CA.
 
 My research interests are wireless communication systems/protocols, signal processing, and machine learning. You can download and view my published works in [Publications](https://amirhya.github.io/amir.github.io//publications/) tab.
 
