@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Amir-Hossein Yazdani-Abyaneh Webpage"
 title_separator          : "-"
-name                     : &name "Amir-Hossein Yazdani-Abyaneh"
+#name                     : &name "Amir-Hossein Yazdani-Abyaneh"
 description              : &description "Research Engineer at DII"
 url                      : https://amirhya.github.io/amir.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amir-Hossein Yazdani-Abyaneh"
   avatar           : "profile.jpg"
-  bio              : "Graduate Student at University of Arizona"
+  #bio              : "Graduate Student at University of Arizona"
   #location         : "Palo Alto, CA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
