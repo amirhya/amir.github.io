@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Title: Amir-Hossein Yazdani-Abyaneh"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,13 +10,15 @@ redirect_from:
 
 Biography
 =========
-Hi, everyone, I am Amir-Hossein Yazdani-Abyaneh!
-I have been a graduate student at University of Arizona's ECE departement since January 2019. Before that I graduated from Amirkabir University of Technology (Tehran Polytechnique) in 2018 with a BSc in Electrical and Electronics Engineering with a concentration on telecommunications.
+This is Amir-Hossein Yazdani-Abyaneh, a graduate ECE student at [the University of Arizona] (https://www.arizona.edu/), Tucson, AZ. I received my BSc in EE at Amirkabir University of Technology (Tehran Polytechic) at June 2018.
 
-My reserach interests are machine learning algorithms and protocols for spectrum sharing and homogeneious coexistence of heterogeneous technologies. I present a summary of my works in [Publications](https://amirhya.github.io/amir.github.io//publications/). However, since 2016, I have been self studying and keeping up with the emerging branches of deep learning specifically CNNs and DRL. 
+My research interests are wireless communication systems/protocols, signal processing, and machine learning. You can download and view my published works in [Publications](https://amirhya.github.io/amir.github.io//publications/) tab.
 
-My current vision for  wireless connectivity is through  adaptability of PHY and MAC layers. To be able to cope with the dynamics within the wireless realm, be it from high channel variations due to mobility or the various new applications that require new technological designs and solutions. For that matter my purpose and goal is to study the effectiveneess of RL algorithms on such wirelss problems.
+#My current vision for  wireless connectivity is through  adaptability of PHY and MAC layers. To be able to cope with the dynamics within the wireless realm, be it from high channel variations due to mobility or the various new applications that require new technological designs and solutions. For that matter my purpose and goal is to study the effectiveneess of RL algorithms on such wirelss problems.
 
+
+
+  (see pictures of Abyaneh Village, Iran at the Gallery section)!
 
 <!--
 <div align="center">
@@ -26,54 +28,37 @@ My current vision for  wireless connectivity is through  adaptability of PHY and
  -->
 
 
-Research Experience
+Research and Engineering Experience
 ======
-* Research Engineer Intern (May 2022 present): NTT Docomo Innovations Inc, Palo Alto, CA
-  * Joint Communication and Sensing
-* Research Engineer Intern (January 2022 - May 2022): ED2 Corporation, Tucson, AZ
-  * mmWave 5G Demo:
-    * Software: [Eurocom's Open Air Interface (OAI) 5G](https://gitlab.eurecom.fr/oai/openairinterface5g), bash scripts, and c programming
-    * Hardware: mmWave antennas, mmWave repeaters, and USRP B210s  
-* Graduate Research Assistant (Januanry 2019 - May 2022): University of Arizona
-  * Cross-Technology Coexistence in Unlicensed Bands Jan. 2019 – May 2022 
-    * Wireless communication systems and protocols: OFDMA, TX/RX radio chain, 802.11 systems, LTE-LAA, 5G NR-U, successive interference cancellation, carrier frequency offset fingerprinting 
-    * Machine learning algorithms: Conventional ML, CNN, RNN, and deep-QNN design (Python: sklearn, PyTorch, TensorFlow, Keras).
-    * Radio hardware: NI/Ettus USRP, USRP RIO, USRP Flex RIOs configuration and setup, beginner LabVIEW FPGA programming, LabVIEW 802.11 application framework, LabVIEW communication design suite, Field-Fox Network and microwave analyzers, and Keysight MXA signal analyzer
-    * Mathematics: Markov chain analysis, statistical inference, optimization, reinforcement learning theory, information theory
-    * Signal processing: Cross-correlation-based identification algorithm design, digital filter design (Python and MATLAB)
-    * Discrete-event simulators: 802.11 ac simulator design (C/C++ and ns-3)
-  * Machine Learning Based Sensing in Unlicensed bands July 2022 - May 2022
-    * Wireless communication systems and protocols: OFDM, MIMO communication and channel characterization, LTE and 5G frame construction and settings
-    * Machine learning algorithms: Neural architecture search and hyper parameter optimization algorithms (Python: Keras and KerasTuner)
-    * Radio hardware: Multiple transmitter/receiver synchronization, MATLAB SDR toolbox
-    * Signal processing: FFT, STFT, moving average/max
-    * HPC: Remote learning-job submission and automatic job creation (VSCode, Linux) on Google colab and UofA computing servers
-  * RFI Mitigation of Terrestrial Transmitters with Radio Astronomy Telescopes Sep. 2020 - May 2022
-    * Interference mitigation: Telescope radiation pattern modeling, link budget analysis based on ITU-R RA recommendations, beam-forming, interference learning with distributed-sensor networks
-    * Experimentation: Over the air transmissions of Wi-Fi waveforms with USRPs (using LabVIEW ) at the SMT telescope (in Mt. Grahm, Tucson, AZ), telescope observational methods, telescope receiver characteristics
-* Undergraduate Research Assistant (December 2016 - September 2018): Amirkabir University of Technology (Tehran Polytechnique)
-  * Wi-Fi Indoor Localization Using CSI:
-    * CNN Learning Algorithm and Architectural Design: Double-input classification algorithm to train CNN for feature extraction and localization authentication (Tensorflow and Keras)
-    * Statistical Learning: PCA and SPCA analysis (Python and MATLAB)
-    * Experimentation: Gathering CSI from 5300i NIC’s with a modified firmware (Linux)
-  * Quantum Key Distribution:
-    * Background studies: Quantum cryptogrophy, linear algebra, and Quantum Physics I
+* Research Engineer Intern (May 2022-present): NTT Docomo Innovations Inc, Palo Alto, CA
+  * Joint wireless communication and sensing
+* 5G System Engineer Intern (January 2022 - May 2022): ED2 Corporation, Tucson, AZ
+  * 5G TDD OTA link establishment with B210 USRPs using [OAI5g](https://gitlab.eurecom.fr/oai/openairinterface5g) open source project
+* Graduate Research Assistant (Januanry 2019 - May 2022): the University of Arizona
+  * Cross-Technology Coexistence 
+  * Machine Learning Based Sensing
+  * RFI Mitigation of Terrestrial Transmitters with Radio Astronomy Telescopes
+* Undergraduate Research Assistant (December 2016 - September 2018): Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran
+  * Wi-Fi Indoor Localization Using CSI
+  * Quantum Key Distribution
 
+Teaching Experience
+======
+
+* Graduate Teaching Assistant (December 2018 - May 2020): the University of Arizona
+  * Laboratory Instructor Elecrtonic Circuits
+
+* Undergraduate Teaching Assistant (January 2018 - November 2018): Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran
+  * MATLAB Instructor for Discrete Signal Processing
   
 
 Notable Course Projects
 ======
-* Music Matcher Mobile Software Design and Development – Course: Software Engineering Spring 2022
-  * Java, Flutter, and Firebase
-* Transport/Network Layer Discrete-Event Simulator Design – Course: Adv. Computer Networks Spring 2021
-  * Simulator design for TCP and GCRA (C++: CSIM)
-* Viterbi Detector – Course: Digital Communications Spring 2021
-  * Simulation of Viterbi decoder (Python)
-* Word Tokenization and Classification (NLP) – Course: Neural Networks Fall 2020
-  * Text tokenization and embedding utilization (Python: spaCy and re), Bidirectional GRU/LSTM design, weighted-categorical-cross-entropy loss design (Python: Tensorflow and Keras)
-* Collision Classification from I/Q Samples – Course: Engineering Applications of ML Spring 2020
-  * CNN design and problem formulation for detecting stations involved in a Wi-Fi collision from raw I/Q samples
-(Python: Keras)
+* Music Matcher Mobile Software Design and Development – Course: Software Engineering (Graduate)
+* Transport/Network Layer Discrete-Event Simulator Design – Course: Adv. Computer Networks (Graduate)
+* Viterbi Detector – Course: Digital Communications (Graduate)
+* Word Tokenization and Classification – Course: Neural Networks
+* Collision Classification from I/Q Samples – Course: Engineering Applications of ML
 
 
 
