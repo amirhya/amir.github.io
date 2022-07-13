@@ -83,7 +83,7 @@ author:
   name             : "Amir-Hossein Yazdani-Abyaneh"
   avatar           : "profile.jpg"
   bio              : "Graduate Student at University of Arizona"
-  location         : "Palo Alto, CA"
+  #location         : "Palo Alto, CA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9nUEOOEAAAAJ&hl=en"
