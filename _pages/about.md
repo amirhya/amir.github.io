@@ -57,9 +57,9 @@ Teaching Experience
 
 Notable Course Projects
 ======
-* Music Matcher Mobile Software Design and Development – Course: Software Engineering (Graduate)
-* Transport/Network Layer Discrete-Event Simulator Design – Course: Adv. Computer Networks (Graduate)
-* Viterbi Detector – Course: Digital Communications (Graduate)
+* Music Matcher Mobile Software Design and Development – Course: Software Engineering 
+* Transport/Network Layer Discrete-Event Simulator Design – Course: Adv. Computer Networks 
+* Viterbi Detector – Course: Digital Communications 
 * Word Tokenization and Classification – Course: Neural Networks
 * Collision Classification from I/Q Samples – Course: Engineering Applications of ML
 
