@@ -14,11 +14,19 @@ This is Amir Yazdani.  I received BSc from Tehran Polytecnic (2018) and MSc from
 
 As for wireless communication, I have worked on 5G PHY and MAC layers the problems involved understanding of deep understanding of CSMA/CA, OFDM, mmWave, and MIMO systems, radio frequency interference mitigation, and cross-technology coexistnece. 
 
-**Machine Learning Experience:**, I have developped and evaluated conventional ML (e.g, random forests) and deep learning methods, such as CNNs, RNNs, LSTMs, transformers, automatic machine learning, and hyperparameter optimization. 
 
-Signal processing is used in all my works. Some examples are, STFTs, FFT, time-domain CFO compensation, and filter design.
+**Wireless Communication Experience**: Developped MAC protocol-adaptation frameworks and algorithms to achieve fairness in Wi-Fi/LTE-LAA/5G NR-U WLANs. Designed and developped of Discrete event simulator  IEEE 802.11 ac and 5G mmWave systems.
+
+**Machine Learning Experience:** Developped and designed conventional ML (random forests), CNNs, RNNs, LSTMs, transformers, AutoML, HyperOpt and RL algorithms. 
+
+**Signal Processing** Designed cross-correlation based detection of uplink collisions in CSMA/CA systems. 
 
 You can view and download my published works in [Publications](https://amirhya.github.io/amir.github.io//publications/) tab.
+
+**RF Hardware:**: Developped Software Defined Radios (SDR), Ettus an National intruments. Measurements with RF and spectrum analyzers. 
+
+**Software Skills:** Python, MATLAB, C++, ns-3, LabVIEW, Unix Shell
+
 
 
 
@@ -32,7 +40,7 @@ You can view and download my published works in [Publications](https://amirhya.g
 
 Research and Engineering Experience
 ======
-* Research Engineer Intern (May 2022-present): NTT Docomo Innovations Inc, Palo Alto, CA
+* Research Engineer Intern (May 2022- August 2022): NTT Docomo Innovations Inc, Palo Alto, CA
   * Joint wireless communication and sensing
 * 5G System Engineer Intern (January 2022 - May 2022): ED2 Corporation, Tucson, AZ
   * 5G TDD OTA link establishment with B210 USRPs using [OAI5g](https://gitlab.eurecom.fr/oai/openairinterface5g) open source project
@@ -56,11 +64,11 @@ Teaching Experience
 
 Notable Course Projects
 ======
-* Music Matcher Mobile Software Design and Development – Course: Software Engineering 
-* Transport/Network Layer Discrete-Event Simulator Design – Course: Adv. Computer Networks 
-* Viterbi Detector – Course: Digital Communications 
-* Word Tokenization and Classification – Course: Neural Networks
-* Collision Classification from I/Q Samples – Course: Engineering Applications of ML
+* Music Matcher Mobile Software Design and Development – Course: Software Engineering (University of Arizona)
+* Transport/Network Layer Discrete-Event Simulator Design – Course: Adv. Computer Networks (University of Arizona)
+* Viterbi Detector – Course: Digital Communications (University of Arizona)
+* Word Tokenization and Classification – Course: Neural Networks (University of Arizona)
+* Collision Classification from I/Q Samples – Course: Engineering Applications of ML (University of Arizona)
 
 
 
