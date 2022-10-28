@@ -7,13 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-You can view and download my published works in [Publications](https://amirhya.github.io/amir.github.io//publications/) tab.
 
 About me
 =========
 This is Amir Yazdani.  I received BSc from Tehran Polytecnic (2018) and MSc from University of Arizona (2022). I have interned with ED2 Corp., Tucson, AZ, and DOCOMO Innovations Inc., Palo Alto, CA. 
 
-As for wireless communication, I have worked on 5G PHY and MAC layers the problems involved understanding of deep understanding of CSMA/CA, OFDM, mmWave, and MIMO systems, radio frequency interference mitigation, and cross-technology coexistnece. 
+You can view and download my published works in [Publications](https://amirhya.github.io/amir.github.io//publications/) tab.
 
 
 **Wireless Communication Experience**: Developped MAC protocol-adaptation frameworks and algorithms to achieve fairness in Wi-Fi/LTE-LAA/5G NR-U WLANs. Designed and developped of Discrete event simulator  IEEE 802.11 ac and 5G mmWave systems.
