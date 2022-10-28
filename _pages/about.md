@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+You can view and download my published works in [Publications](https://amirhya.github.io/amir.github.io//publications/) tab.
 
 About me
 =========
@@ -21,7 +22,6 @@ As for wireless communication, I have worked on 5G PHY and MAC layers the proble
 
 **Signal Processing** Designed cross-correlation based detection of uplink collisions in CSMA/CA systems. 
 
-You can view and download my published works in [Publications](https://amirhya.github.io/amir.github.io//publications/) tab.
 
 **RF Hardware:**: Developped Software Defined Radios (SDR), Ettus an National intruments. Measurements with RF and spectrum analyzers. 
 
