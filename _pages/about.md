@@ -10,12 +10,11 @@ redirect_from:
 
 About me
 =========
-This is Amir-Hossein Yazdani-Abyaneh (Amir Yazdani). I have been developping and designing machine learning and signal processing solutions for wireless communication and sensing problems. I received BSc and MSc from Tehran Polytecnic (2018) and University of Arizona (2022), respectively. I have interned with ED2 Corp., Tucson, AZ, and DOCOMO Innovations Inc., Palo Alto, CA. 
-
+This is Amir Yazdani.  I received BSc from Tehran Polytecnic (2018) and MSc from University of Arizona (2022). I have interned with ED2 Corp., Tucson, AZ, and DOCOMO Innovations Inc., Palo Alto, CA. 
 
 As for wireless communication, I have worked on 5G PHY and MAC layers the problems involved understanding of deep understanding of CSMA/CA, OFDM, mmWave, and MIMO systems, radio frequency interference mitigation, and cross-technology coexistnece. 
 
-As for machine learning, I have developped and evaluated conventional ML (e.g, random forests) and deep learning methods, such as CNNs, RNNs, LSTMs, transformers, automatic machine learning, and hyperparameter optimization. 
+**Machine Learning Experience:**, I have developped and evaluated conventional ML (e.g, random forests) and deep learning methods, such as CNNs, RNNs, LSTMs, transformers, automatic machine learning, and hyperparameter optimization. 
 
 Signal processing is used in all my works. Some examples are, STFTs, FFT, time-domain CFO compensation, and filter design.
 
