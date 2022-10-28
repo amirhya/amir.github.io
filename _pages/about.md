@@ -24,7 +24,7 @@ You can view and download my published works in [Publications](https://amirhya.g
 
 **RF Hardware:**: Developped Software Defined Radios (SDR), Ettus an National intruments. Measurements with RF and spectrum analyzers. 
 
-**Software Skills:** Python, MATLAB, C++, ns-3, LabVIEW, Unix Shell
+**Software Skills:** Python, MATLAB, C/C++, ns-3, LabVIEW, Unix Shell
 
 
 
