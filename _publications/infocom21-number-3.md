@@ -1,7 +1,7 @@
 ---
 title: "Signal detection and classification in shared spectrum: A deep learning approach"
 collection: publications
-permalink: /publication/infocom21_paper
+permalink: publications/infocom21_paper
 excerpt: 'Machine learning, signal classification, coexistence, convolutional neural networks, recurrent neural networks,
 dynamic spectrum access, software-defined radio.'
 date: May 2021
