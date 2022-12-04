@@ -1,6 +1,6 @@
 ---
 title: "CSI‐based authentication: Extracting stable features using deep neural networks"
-collection: publications
+collection: 10 and 100 publications
 permalink: publications/CSI_paper
 excerpt: 'PHY layer authenticatio, CSI based localization, CNN, Intel 5300i NIC'
 date: February 2020
