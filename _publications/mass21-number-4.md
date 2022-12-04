@@ -1,7 +1,7 @@
 ---
 title: "CWmin Estimation and Collision Identification in Wi-Fi Systems"
 collection: publications
-permalink: /publication/mass21_paper
+permalink: publications/mass21_paper
 excerpt: 'Jensen-Shannon DIvergence, Cross-corrleation, Wi-Fi, Markovian Analysis'
 date: May 2021
 venue: 'IEEE MASS 2021, Virtual'
