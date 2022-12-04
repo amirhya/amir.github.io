@@ -1,7 +1,7 @@
 ---
 title: "Intelligent-CW: AI-based framework for controlling contention window in WLANs"
 collection: publications
-permalink: /publication/ICW_paper
+permalink: publications/ICW_paper
 excerpt: 'CSMA/CA, Random Forests, CWmin, Wi-FI, 5G NR-U, LTE-LAA'
 date: November 2019
 venue: 'IEEE DySPAN 2019, Newark, NJ, USA'
