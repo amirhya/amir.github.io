@@ -1,7 +1,7 @@
 ---
 title: "Automatic Machine Learning for Multi-Receiver CNN Technology Classifiers"
 collection: publications
-permalink: /publication/wiseml22_paper
+permalink: publication/wiseml22_paper
 excerpt: 'Signal classification, CNN, AutoML, multi-receiver, HyperOpt, Hyperband, Wi-Fi, LTE-LAA, 5G NR-U, SDR'
 date: May 20222
 venue: 'ACM WiSec/WiseML 2022, San Antonio, TX, USA'
