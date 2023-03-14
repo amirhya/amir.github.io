@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 =========
-This is Amir Yazdani.  I received BSc from Tehran Polytecnic (2018) and MSc from University of Arizona (2022). I have interned with ED2 Corp., Tucson, AZ, and DOCOMO Innovations Inc., Palo Alto, CA. 
+This is Amir Yazdani a Jr SW RF engineer at CelPlan Technologies, Inc.  I received BSc from Tehran Polytecnic (2018) and MSc from University of Arizona (2022). I have interned with ED2 Corp., Tucson, AZ, and DOCOMO Innovations Inc., Palo Alto, CA. 
 
 You can access my research works in [Publications](https://amirhya.github.io/amir.github.io//publications/) tab.
 
